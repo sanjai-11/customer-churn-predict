@@ -1,0 +1,12 @@
+data/
+models/
+tableau_exports/
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+*.safetensors
+.env
+.DS_Store
+*.log
+.ipynb_checkpoints/
