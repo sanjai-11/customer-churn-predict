@@ -1,6 +1,6 @@
 # Customer Churn Prediction & Segmentation System
 
-> Built a churn prediction model using XGBoost and Logistic Regression on 1M+ customer records, identifying key behavioral drivers and improving retention targeting accuracy by **30%** through data-driven segmentation.
+> Built a churn prediction model using XGBoost and Logistic Regression on 1M+ customer records, identifying key behavioral drivers and improving retention targeting accuracy by **30%** through data-driven segmentation...
 
 ## Results
 
